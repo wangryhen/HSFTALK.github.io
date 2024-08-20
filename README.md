@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 # HSFTalk: Hierarchical Speech Feature-based Landmark Displacements for 3D Talking Head Animation
 The official repository of the paper [HSFTalk: Hierarchical Speech Feature-based Landmark Displacements for 3D Talking Head Animation](https://arxiv.org/abs/2404.01647)
 
@@ -80,7 +77,5 @@ If you find Nerfies useful for your work please cite:
 
 # Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-<<<<<<< HEAD
-=======
->>>>>>> a9db8dc (update html)
->>>>>>> b086eb2 (update)
+
+
